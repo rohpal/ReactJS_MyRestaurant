@@ -1,0 +1,22 @@
+.white-input  {
+    color:white
+}
+
+.white-input input {
+    color:white;
+    border:1px solid white;
+}
+
+.white-input input:focus {
+    color:white;
+    outline: none !important;
+    border:1px solid white;
+    box-shadow: 0 0 5px white;
+}
+
+.white-input textarea:focus {
+    color:white;
+    outline: none !important;
+    border:1px solid white;
+    box-shadow: 0 0 5px white;
+}
